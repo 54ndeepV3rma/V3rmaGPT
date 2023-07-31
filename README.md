@@ -14,6 +14,9 @@ https://github.com/54ndeepV3rma/v3rmaGPT/
 ### For Windows
 Download the repository directly by clicking [here](https://github.com/54ndeepV3rma/v3rmaGPT/archive/refs/heads/main.zip)
 and extract it once it is downloaded
+
+Download [FFMPEG](https://we.tl/t-zCoWaLKr5V) from the link and put it inside the cloned folder.
+
 ### Working
 Open the folder ```V3rmaGPT``` 
 and Run this command
