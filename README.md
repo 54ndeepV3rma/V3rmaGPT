@@ -64,6 +64,7 @@ Now your WhatsApp is connected with ChatGPT! You can verify by sending message f
   | ChatGPT Integration                          	|    ✅   	|
   | GPT Powered Conversation                     	|    ✅   	|
   | Google Dork Searcher                         	|    ✅   	|
+  | Free eBook Searcher                          	|    ✅   	|
   | Image to Sticker                            	|    ✅   	|
   | Video to Sticker                            	|    ✅   	|
   | Gif to Sticker                              	|    ✅   	|
