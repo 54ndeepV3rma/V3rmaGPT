@@ -1,7 +1,7 @@
 # V3rmaGPT
 A GPT-powered WhatsApp bot built in Node.js capable of connecting WhatsApp with ChatGPT. Converting images to stickers and vice versa. Fetching results for your google search and so on.
 
-![banner](https://i.imgur.com/8Vkc327.png)
+![banner](bannermain.png "ChatBot")
 
 ## Getting Started
 Install Node.js from their [Official Website](https://nodejs.org/en/download) and setup in your Device
