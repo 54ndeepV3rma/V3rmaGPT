@@ -50,9 +50,46 @@ Once you run, It will generate a WhatsApp Web QR-Code for you
 
 ![qrss](https://i.imgur.com/aydG9Zt.png)
 
+
 Now open WhatsApp in your mobile device, and open WhatsApp web scanner to scan this QR Code
 
 ![qrscan](https://i.imgur.com/iKDv7Dn.jpg)
 
 Now your WhatsApp is connected with ChatGPT! You can verify by sending message from another number
 
+
+## Features 
+  |                   Features                  	| Status 	|
+  |:-------------------------------------------:	|:------:	|
+  | ChatGPT Integration                          	|    ✅   	|
+  | GPT Powered Conversation                     	|    ✅   	|
+  | Google Dork Searcher                         	|    ✅   	|
+  | Image to Sticker                            	|    ✅   	|
+  | Video to Sticker                            	|    ✅   	|
+  | Gif to Sticker                              	|    ✅   	|
+  | Sticker to Image                            	|    ✅   	|
+  | Sticker to Video                            	|    ❎   	|
+
+## Commands 
+  <table class="tg">
+    <thead>
+      <tr>
+        <th class="tg-0pky">Commands</th>
+        <th class="tg-0pky">Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td class="tg-0pky">!s</td>
+        <td class="tg-0pky">Make Image/Video/Gif into Sticker. Write !s in the caption of Image/Video/GIF while sending it to bot</td>
+      </tr>
+      <tr>
+        <td class="tg-0pky">!search</td>
+        <td class="tg-0pky">Fetch Links using google dork. For E.g: !search inurl:php?id= site:com </td>
+      </tr>
+      <tr>
+        <td class="tg-0pky">!book</td>
+        <td class="tg-0pky">Search for eBooks in pdf. For E.g: !book Cybersecurity Basics /td>
+      </tr>
+    </tbody>
+  </table>
